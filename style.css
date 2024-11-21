@@ -4,5 +4,7 @@ body {
 }
 
 header {
-    border: solid 1px yellow;
+    border: solid 1px rgb(252, 253, 255);
+    padding: 20px;
+    
 }
